@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\steamDLnew\steamDLnew\bin\Release\steamDLnew.exe.config
+C:\Users\User\source\repos\steamDLnew\steamDLnew\bin\Release\steamDLnew.exe
+C:\Users\User\source\repos\steamDLnew\steamDLnew\bin\Release\steamDLnew.pdb
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.FrmMain.resources
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.FrmChangelogsTips.resources
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.Properties.Resources.resources
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.csproj.GenerateResource.cache
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.exe
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.pdb
+C:\Users\User\source\repos\steamDLnew\steamDLnew\obj\Release\steamDLnew.exe.config
